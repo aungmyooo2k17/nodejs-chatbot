@@ -1,0 +1,19 @@
+{
+  "name": "amobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.5.0",
+    "apiai": "^4.0.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "save": "^2.4.0",
+    "winston": "^3.3.3"
+  }
+}
